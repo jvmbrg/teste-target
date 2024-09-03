@@ -43,13 +43,22 @@ public class Program {
 		System.out.println("Total de 'a': " + total);
 		*/
 		
+		/* 3º)
 		int indice = 12, soma = 0, k = 1;
 		for(int i=0; k<indice; i++) {
 			k += 1;
 			soma += k;
 		}
 		System.out.println("Soma: "+soma); //Resultado = 77
+		*/
 		
+		 	a) 1,3,5,7,9 - aumenta 2
+		 	b) 2,4,8,16,32,64,128 - multiplica por 2
+		 	c) 0,1,4,9,16,25,36,49 - ordem crescente dos numeros elevados ao quadrado
+		 	d) 4,16,36,64,100 - ordem crescente de numeros pares elevado ao quadrado
+		 	e) 1,1,2,3,5,8 - fibonnaci
+		 	f) 2,10,12,16,17,18,19,20 - sequencia de numeros que tem a letra i na escrita em ingles 
+		 
 		sc.close();
 	}
 }
