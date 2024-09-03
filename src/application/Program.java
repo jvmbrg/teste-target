@@ -52,12 +52,21 @@ public class Program {
 		System.out.println("Soma: "+soma); //Resultado = 77
 		*/
 		
+		/* 4º)
 		 	a) 1,3,5,7,9 - aumenta 2
 		 	b) 2,4,8,16,32,64,128 - multiplica por 2
 		 	c) 0,1,4,9,16,25,36,49 - ordem crescente dos numeros elevados ao quadrado
 		 	d) 4,16,36,64,100 - ordem crescente de numeros pares elevado ao quadrado
 		 	e) 1,1,2,3,5,8 - fibonnaci
 		 	f) 2,10,12,16,17,18,19,20 - sequencia de numeros que tem a letra i na escrita em ingles 
+		 */
+		
+		 5º) Já que eu posso acender e apagar as lampadas quantas vezes eu quiser, eu escolheria um dos interruptores e acenderia e apa
+		 garia a lampada repetidas vezes, até ela queimar. Depois, deixaria uma lampada acesa e uma apagada. Por fim, visitaria
+		 as salas para verificar quais das lampadas eram correspondentes. Iria nas salas duas vezes, se achasse as duas apagadas retiraria
+		 e levaria pra sala, a que estivesse queimada ia estar com uma marca preta, a que deixei apagada não estaria, logo a outra é a que
+		 tá acesa.
+		  
 		 
 		sc.close();
 	}
