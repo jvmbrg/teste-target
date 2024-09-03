@@ -28,6 +28,7 @@ public class Program {
 		return fibonacci(n - 1) + fibonacci(n - 2);
 	}
 	*/
+		/* 2º)
 		System.out.print("Digite uma palavra: ");
 		String palavra = sc.nextLine();
 		char letra = 'a';
@@ -40,6 +41,15 @@ public class Program {
 		}
 		
 		System.out.println("Total de 'a': " + total);
+		*/
+		
+		int indice = 12, soma = 0, k = 1;
+		for(int i=0; k<indice; i++) {
+			k += 1;
+			soma += k;
+		}
+		System.out.println("Soma: "+soma); //Resultado = 77
+		
 		sc.close();
 	}
 }
